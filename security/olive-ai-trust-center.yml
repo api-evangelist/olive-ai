@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://www.waystar.com/
+url: https://www.waystar.com/
+certifications:
+- SOC 2
+- PCI DSS
+- HIPAA
+evidence:
+- source: https://www.waystar.com/
+  keywords:
+  - soc2
+  - pci-dss
+  - hipaa
